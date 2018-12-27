@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HostelData</string>
+    <string name="hostel_type">Room No</string>
+    <string name="enrollment_no">Enrollment No.</string>
+    <string name="student_name">Student Name</string>
+    <string name="department">Branch</string>
+    <string name="semester">Year</string>
+    <string name="email_id">Email ID</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="parent_contact_no">Parent Contact No.</string>
+    <string name="address">Address</string>
+</resources>
