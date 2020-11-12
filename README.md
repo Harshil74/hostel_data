@@ -1,2 +1,3 @@
 # hostel_data 
-this is app for hostel info of my college. There was need of application which can show to whole master data of each student for faculty to easy there search work. so this application help them to search student according to the hostel room number or name of the student.
+This app is basically use for personal purpose by faculty member for fetching student data who are living in the college hostel. 
+Super simple app, fetching data from CSV file and showing into recycalar view with searching functionality with some of the fields.
